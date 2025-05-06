@@ -1,4 +1,4 @@
-# yolo_v8
+# yolov8
 # 🚦 Intelligent Object Counting and Speed Monitoring System using YOLOv8
 
 A real-time web-based surveillance system for **object detection**, **object tracking**, **region-wise counting**, and **speed estimation** using **YOLOv8**. The system is built using **Flask** and containerized with **Docker** for easy deployment.
@@ -49,7 +49,7 @@ Speed = Distance (pixels shifted) / Time taken (seconds)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SudharsanMathivanan/yolo_v8.git
+git clone https://github.com/SudharsanMathivanan/yolov8.git
 cd yolo-flask-app
 ```
 
